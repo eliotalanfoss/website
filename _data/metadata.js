@@ -6,6 +6,6 @@ module.exports = {
 	author: {
 		name: "Eliot Alan Foss",
 		email: "eliotfoss@gmail.com",
-		url: "https://eliotfoss.com/about-me/"
+		url: "https://eliotfoss.com/about/"
 	}
 }
