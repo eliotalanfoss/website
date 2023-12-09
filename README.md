@@ -1,4 +1,6 @@
-# eleventy-base-blog v8
+# Eliot's version of eleventy-base-blog v8
+
+Right now, the following is just copy of the original repository which can be found here: https://github.com/11ty/eleventy-base-blog
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
 
