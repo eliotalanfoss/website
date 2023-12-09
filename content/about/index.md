@@ -6,4 +6,8 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am Eliot Foss.  A guy who is trying to figure out how to make his own website.
+
+That's why the website looks so empty right now.
+
+Sorry about that
